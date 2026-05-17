@@ -2,13 +2,13 @@
 
 Yahlodemya is a creative agency operating in the fields of media production, web development, AI-powered solutions, and design services. The brand appears to be a multidisciplinary studio offering a broad range of digital and creative services, positioning itself at the intersection of technology and design innovation.
 
-Source: https://-5a0133c0.zappy5.app
+Source: https://example.com
 
 ---
 
 ## open ai api — יהלומדיה
 
-URL: https://-5a0133c0.zappy5.app
+URL: https://example.com
 Description: יהלומדיה היא סטודיו יצירתי מוביל המשלב open ai api עם עיצוב ופיתוח אתרים. חווית משתמש מרהיבה, טכנולוגיה חכמה ועיצוב חדשני — הכל במקום אחד. גלו את העתיד איתנו.
 
 open ai api — יהלומדיה
@@ -521,7 +521,7 @@ AI
 
 ## פתרונות AI ועיצוב שישנו את העסק שלך — יהלומדיה
 
-URL: https://-5a0133c0.zappy5.app/services
+URL: https://example.com/services
 Description: מ־chat gpt 4 ועד עיצוב מותגי מלא — השירותים של יהלומדיה מותאמים לעסקים שרוצים לצמוח. טכנולוגיה מתקדמת, יצירתיות ללא גבולות ותוצאות מדידות. בואו נבנה משהו יוצא דופן יחד.
 
 פתרונות AI ועיצוב שישנו את העסק שלך — יהלומדיה
@@ -1151,7 +1151,7 @@ AI · אוטומציה · חדשנות
 
 ## הסיפור מאחורי המותג שמוביל את המהפכה — יהלומדיה
 
-URL: https://-5a0133c0.zappy5.app/about
+URL: https://example.com/about
 Description: יהלומדיה נולדה מתוך תשוקה לחבר בין יצירתיות לטכנולוגיה. צוות מומחים בעיצוב, פיתוח ו־ai chatbot gpt שמאמין שכל פרויקט הוא הזדמנות לחולל שינוי אמיתי. הכירו אותנו לעומק.
 
 הסיפור מאחורי המותג שמוביל את המהפכה — יהלומדיה
@@ -1628,7 +1628,7 @@ AI & פיתוח
 
 ## מוכנים להתחיל? דברו איתנו עוד היום — יהלומדיה
 
-URL: https://-5a0133c0.zappy5.app/contact
+URL: https://example.com/contact
 Description: יש לכם פרויקט שדורש open ai api, עיצוב מתקדם או פיתוח חכם? צוות יהלומדיה כאן כדי להפוך את החזון שלכם למציאות דיגיטלית מרשימה. צרו קשר עכשיו ונתחיל לעבוד יחד.
 
 מוכנים להתחיל? דברו איתנו עוד היום — יהלומדיה
@@ -2128,7 +2128,7 @@ Description: יש לכם פרויקט שדורש open ai api, עיצוב מתק�
 
 ## מדיניות פרטיות
 
-URL: https://-5a0133c0.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -2327,7 +2327,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://-5a0133c0.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -2535,7 +2535,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://-5a0133c0.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
