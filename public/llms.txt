@@ -1,0 +1,84 @@
+# יהלומדיה — Generative Engine Optimization Map
+
+> Yahlodemya is a creative agency operating in the fields of media production, web development, AI-powered solutions, and design services. The brand appears to be a multidisciplinary studio offering a broad range of digital and creative services, positioning itself at the intersection of technology and design innovation.
+
+---
+
+## Pages
+
+### בית
+https://-5a0133c0.zappy5.app
+יהלומדיה היא סטודיו יצירתי מוביל המשלב open ai api עם עיצוב ופיתוח אתרים. חווית משתמש מרהיבה, טכנולוגיה חכמה ועיצוב חדשני — הכל במקום אחד. גלו את העתיד איתנו.
+
+### שירותים
+https://-5a0133c0.zappy5.app/services
+מ־chat gpt 4 ועד עיצוב מותגי מלא — השירותים של יהלומדיה מותאמים לעסקים שרוצים לצמוח. טכנולוגיה מתקדמת, יצירתיות ללא גבולות ותוצאות מדידות. בואו נבנה משהו יוצא דופן יחד.
+
+### אודות
+https://-5a0133c0.zappy5.app/about
+יהלומדיה נולדה מתוך תשוקה לחבר בין יצירתיות לטכנולוגיה. צוות מומחים בעיצוב, פיתוח ו־ai chatbot gpt שמאמין שכל פרויקט הוא הזדמנות לחולל שינוי אמיתי. הכירו אותנו לעומק.
+
+### צור קשר
+https://-5a0133c0.zappy5.app/contact
+יש לכם פרויקט שדורש open ai api, עיצוב מתקדם או פיתוח חכם? צוות יהלומדיה כאן כדי להפוך את החזון שלכם למציאות דיגיטלית מרשימה. צרו קשר עכשיו ונתחיל לעבוד יחד.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-5a0133c0.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-5a0133c0.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-5a0133c0.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-5a0133c0.zappy5.app/contact
+- Endpoint: https://-5a0133c0.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About יהלומדיה
+Yahlodemya is a creative agency operating in the fields of media production, web development, AI-powered solutions, and design services. The brand appears to be a multidisciplinary studio offering a broad range of digital and creative services, positioning itself at the intersection of technology and design innovation.
+
+## Services/Products
+- מדיה
+- בניית אתרים
+- AI
+- עיצוב
+
+## Target Audience
+- יזמי סטארטאפ טכנולוגיים
+- בעלי עסקים קטנים
+- סוכנויות קריאטיב
+
+## Industry
+Media & Web Design
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-5a0133c0.zappy5.app/sitemap.xml
+- Robots: https://-5a0133c0.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-5a0133c0.zappy5.app/llms-full.txt
